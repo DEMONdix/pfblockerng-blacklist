@@ -16,5 +16,6 @@
 ############################################################
 
 securepubads.g.doubleclick.net
+video-ad-stats.googlesyndication.com
 iosads24.adcolony.com
 
