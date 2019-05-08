@@ -1,2 +1,3 @@
-# pfblockerng-blacklist
-Personal Blacklist for pfblockerNG
+# blacklist WebAds
+Personal Blacklist for washar sin ads
+ewe
